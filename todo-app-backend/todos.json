@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "task": "Köp kaffe",
+      "id": "9bAgDWu5-OYR4CSKl4xnB"
+    },
+    {
+      "task": "Brygg kaffe",
+      "id": "TBRDTOVRw393n5PZivOt3"
+    },
+    {
+      "task": "Drick kaffe",
+      "id": "YB4O4FXkxaDHJcP2YPHw2"
+    },
+    {
+      "task": "Rast kanske?",
+      "id": "yTQELHYYJ5JaoQqTKceS4"
+    },
+    {
+      "task": "Yay",
+      "id": "u0HvwY-7C_o00RF4aAo-9"
+    },
+    {
+      "task": "Test",
+      "id": "loCTRghjXrXrsGYcF8FCn"
+    },
+    {
+      "task": "Testar igen",
+      "id": "gd2K-CLxnrjK2e_BjiUSi"
+    },
+    {
+      "task": "Funkar nu?",
+      "id": "1siui7tlsQNAPH2_G9Nik"
+    }
+  ]
+}
